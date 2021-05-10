@@ -1,0 +1,20 @@
+*, footer {
+  margin: 0;
+  padding: 0;
+  color: white;
+}
+body {
+ background-color: black; 
+}
+hr {
+  border-top: 1px solid #27b9cc;
+}
+.cyan {
+  background-color: #27b9cc;
+}
+.special-text {
+  font-size: 1.6em;
+}
+.footer-text {
+  font-size: 1.8em;
+}

@@ -1,0 +1,112 @@
+* {
+    margin:0;
+    padding: 0;
+}
+body {
+    font-family: 'Raleway', sans-serif;
+}
+.container-main{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+h2, h3, p, i {
+    color: #ffffff;
+}
+h2, h3, footer.icons-section {
+    text-align: center;
+}
+h2 {
+    font-size: 3em;
+    padding: 0.2em;
+    font-weight: 500;
+}
+h3 {
+    font-size: 2.6em;
+    padding: 1em .7em .7em .7em;
+    font-weight: 500;
+}
+.desc-section {
+    background-color: #000000;
+}
+.img-fullsize {
+    width: 100%;
+}
+.icons-section, footer {
+    background-color: #1E1A13;
+    opacity: 0.98;
+}
+.iguana-section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.img-iguana {
+    width: 30%;
+    vertical-align: middle;
+}
+.all-center{
+    width: 75%;
+    margin: 0 auto; 
+}
+.characteristics {
+    padding: 2rem 10%;
+}
+.description-iguana {
+    display: inline-block;
+    padding: 3em;
+    text-align: center;
+}
+.text-iguana {
+    width: 40%;
+    text-align: left;
+    vertical-align: middle;
+    white-space: normal;
+    font-size: 1em;
+    letter-spacing: 0px;
+}
+p {
+    font-weight: 300;
+    padding: 0.5em;
+}
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.icon-display {
+    display: inline-block;
+    text-align: center;
+    padding: 1em;
+    width: 25%;
+}
+.icon-display p {
+    padding: 0.8em 0.5em;
+    font-size: 1.4em;
+}
+.icon-size {
+    padding: 2em;
+}
+.set-iguanas {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 3.5rem 30px;
+}
+.iguana-tall {
+    height: auto;
+    width: 100%;
+    max-width: 320px;
+    min-height: 220px;
+    margin: 10px;
+}
+footer {
+    padding: 1.8em;
+    text-align: center;
+    
+}
