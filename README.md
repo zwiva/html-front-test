@@ -1,2 +1,6 @@
 # html-front-test
-another course repo
+another HTML + CSS + JS course repo
+
+### - bootstrap 4.6.0
+### - fontawesome
+### - typeform
